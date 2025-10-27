@@ -1,6 +1,23 @@
 # Learn Flutter — Practice Project
 
-Purpose: This project is for learning and practicing Flutter following a video series: https://www.youtube.com/watch?v=p1l-BUtjHJk&list=PLyxSzL3F7484qhNw1K08o8kDn8ecCpA_j
+## Purpose
+
+This project is for learning and practicing Flutter by following a video series: [YOUTUBE](https://www.youtube.com/watch?v=p1l-BUtjHJk&list=PLyxSzL3F7484qhNw1K08o8kDn8ecCpA_j).
+
+### Learning goals
+
+-   Build and explore basic widgets, layouts, and theming.
+-   Implement navigation and simple state management.
+-   Work with assets (images, icons) and configure launcher icons.
+-   Practice debugging, testing, and incremental commits.
+
+### Environment & setup
+
+-   Flutter SDK (stable channel) installed
+-   VS Code or Android Studio recommended
+-   Emulator, simulator, or physical device available
+
+Keep changes small and document experiments in the README.
 
 Main content: follow the videos, try basic widgets, navigation, state management, and illustrative icons configuration.
 
